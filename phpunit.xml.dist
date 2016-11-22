@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="SimgonGonzalezCepeda Test Suite">
+        <testsuite name="Scool Social Notifications Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
