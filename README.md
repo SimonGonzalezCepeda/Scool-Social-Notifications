@@ -23,7 +23,7 @@ $ composer require SimgonGonzalezCepeda/Scool-Social-Notifications
 ## Usage
 
 ``` php
-$skeleton = new Acacha-Scool\Social\Notifications();
+$notification = new AcachaScool\Social\Notifications();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 

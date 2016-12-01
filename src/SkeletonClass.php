@@ -1,6 +1,6 @@
 <?php
 
-namespace Acacha-Scool\Social\Notifications;
+namespace AcachaScool\Social\Notifications;
 
 class SkeletonClass
 {
